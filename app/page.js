@@ -37,6 +37,8 @@ export default function Home() {
           height={37}
           priority
         />
+      </div>
+      <div>
         <h1>tak hentu by to asi šlo</h1>
       </div>
 
