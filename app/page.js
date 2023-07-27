@@ -37,6 +37,7 @@ export default function Home() {
           height={37}
           priority
         />
+        <h1>tak hentu by to asi šlo</h1>
       </div>
 
       <div className={styles.grid}>
